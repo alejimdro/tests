@@ -25,18 +25,6 @@
 
 ## <a name="table-of-contents"></a> Table of Contents
 
-1. [Features](#features)
-2. [Motivation](#motivation)
-3. [Benchmarks](#bench)
-4. [Roadmap](#roadmap)
-5. [Limitations](#limitations)
-6. [Installation](#installation)
-7. [Build](#build)
-8. [Diagnostics](#diagnostics)
-9. [Color Theme](#theme)
-10. [Key Bindings](#bindings)
-11. [Sponsoring](#sponsoring)
-
 - [Our Pledge](#our-pledge)
 - [Our Standards](#our-standards)
 - [Enforcement Responsibilities](#enforcement-responsibilities)
