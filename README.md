@@ -17,6 +17,18 @@
   * [4. Expulsión permanente](#4-expulsión-permanente)
 - [Atribución](#atribución)
 
+- [Nuestro compromiso](#nuestro-compromiso)
+- [Nuestros estándares](#nuestros-estándares)
+- [Responsabilidades de aplicación](#responsabilidades-de-aplicación)
+- [Alcance](#alcance)
+- [Aplicación](#aplicación)
+- [Directrices de aplicación](#directrices-de-aplicación)
+  * [Corrección](#corrección)
+  * [Aviso](#aviso)
+  * [Expulsión temporal](#expulsión-temporal)
+  * [Expulsión permanente](#expulsión-permanente)
+- [Atribución](#atribución)
+
 ## Nuestro compromiso
 
 Nosotros, como miembros, colaboradores y administradores, nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todos, independientemente de la edad, tamaño corporal, discapacidad visible o invisible, etnia, características sexuales, identidad y expresión de género, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia personal, raza, casta, color, religión o identidad y orientación sexual.
