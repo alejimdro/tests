@@ -63,7 +63,7 @@ Los administradores de la comunidad son responsables de aclarar y hacer cumplir 
 
 Los administradores de la comunidad tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, confirmaciones de cambios, código, ediciones de la wiki, informes de problemas y otras contribuciones que no estén alineadas con este Código de Conducta y comunicarán las razones de las decisiones de moderación cuando sea apropiado.
 
-**[↑ Volver al principio](#índice-de-contenido)**
+**[↑ volver al principio](#índice-de-contenido)**
 
 ## Alcance
 
