@@ -3,7 +3,7 @@
 [![Pacto del Colaborador](https://img.shields.io/badge/Pacto%20del%20Colaborador-2.0-4baaaa.svg)](code_of_conduct.md)
 [![Pacto del Colaborador](https://img.shields.io/badge/Pacto%20del%20Colaborador-2.0-4baaaa.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 
-# Índice de contenido
+## Índice de contenido
 
 - [Nuestro compromiso](#nuestro-compromiso)
 - [Nuestros estándares](#nuestros-estándares)
