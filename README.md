@@ -3,7 +3,7 @@
 [![Pacto del Colaborador](https://img.shields.io/badge/Pacto%20del%20Colaborador-2.0-4baaaa.svg)](code_of_conduct.md)
 [![Pacto del Colaborador](https://img.shields.io/badge/Pacto%20del%20Colaborador-2.0-4baaaa.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 
-## Índice de contenido
+# Índice de contenido
 
 - [Nuestro compromiso](#nuestro-compromiso)
 - [Nuestros estándares](#nuestros-estándares)
@@ -28,6 +28,18 @@
   * [Expulsión temporal](#expulsión-temporal)
   * [Expulsión permanente](#expulsión-permanente)
 - [Atribución](#atribución)
+
+- [1. Nuestro compromiso](#1-nuestro-compromiso)
+- [2. Nuestros estándares](#2-nuestros-estándares)
+- [3. Responsabilidades de aplicación](#3-responsabilidades-de-aplicación)
+- [4. Alcance](#4-alcance)
+- [5. Aplicación](#5-aplicación)
+- [6. Directrices de aplicación](#6-directrices-de-aplicación)
+  * [6.1. Corrección](#61-corrección)
+  * [6.2. Aviso](#62-aviso)
+  * [6.3. Expulsión temporal](#63-expulsión-temporal)
+  * [6.4. Expulsión permanente](#64-expulsión-permanente)
+- [7. Atribución](#7-atribución)
 
 ## Nuestro compromiso
 
@@ -63,7 +75,7 @@ Los administradores de la comunidad son responsables de aclarar y hacer cumplir 
 
 Los administradores de la comunidad tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, confirmaciones de cambios, código, ediciones de la wiki, informes de problemas y otras contribuciones que no estén alineadas con este Código de Conducta y comunicarán las razones de las decisiones de moderación cuando sea apropiado.
 
-**[↑ volver al principio](#índice-de-contenido)**
+**[↑ Volver al principio](#índice-de-contenido)**
 
 ## Alcance
 
