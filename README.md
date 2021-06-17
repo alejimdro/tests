@@ -1,6 +1,5 @@
 # Código de Conducta del Pacto del Colaborador
 
-[![Pacto del Colaborador](https://img.shields.io/badge/Pacto%20del%20Colaborador-2.0-4baaaa.svg)](code_of_conduct.md)
 [![Pacto del Colaborador](https://img.shields.io/badge/Pacto%20del%20Colaborador-2.0-4baaaa.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 
 ## Índice de contenido
@@ -55,13 +54,13 @@ Los administradores de la comunidad tienen el derecho y la responsabilidad de el
 
 ## 4. Alcance
 
-Este Código de Conducta se aplica en todos los espacios de la comunidad y también cuando un individuo representa oficialmente a esta en espacios públicos. Ejemplos de representación de nuestra comunidad incluyen el uso de una dirección de correo electrónico oficial, la publicación a través de una cuenta oficial en las redes sociales o la actuación como representante designado en un evento en o fuera de línea.
+Este Código de Conducta se aplica en todos los espacios de la comunidad y también cuando un individuo representa oficialmente a esta en espacios públicos. Ejemplos de representación de nuestra comunidad incluyen el uso de una dirección de correo electrónico oficial, la publicación a través de una cuenta oficial en las redes sociales o la actuación como representante designado en un evento `en o fuera de línea`.
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
 ## 5. Aplicación
 
-Los casos de abuso, acoso o cualquier otro comportamiento inaceptable pueden denunciarse a los administradores de la comunidad encargados de la aplicación de los estándares en [alejimdro@outlook.com](mailto:alejimdro@outlook.com). Todas las quejas serán revisadas e investigadas con prontitud y equidad.
+Los casos de abuso, acoso o cualquier otro comportamiento inaceptable `pueden` denunciarse a los administradores de la comunidad encargados de la aplicación de los estándares en [alejimdro@outlook.com](mailto:alejimdro@outlook.com). Todas las quejas serán revisadas e investigadas con prontitud y equidad.
 
 Todos los administradores comunitarios están obligados a respetar la privacidad y seguridad del denunciante de cualquier incidente.
 
