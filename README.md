@@ -17,18 +17,6 @@
   * [4. Expulsión permanente](#4-expulsión-permanente)
 - [Atribución](#atribución)
 
-- [Nuestro compromiso](#nuestro-compromiso)
-- [Nuestros estándares](#nuestros-estándares)
-- [Responsabilidades de aplicación](#responsabilidades-de-aplicación)
-- [Alcance](#alcance)
-- [Aplicación](#aplicación)
-- [Directrices de aplicación](#directrices-de-aplicación)
-  * [Corrección](#corrección)
-  * [Aviso](#aviso)
-  * [Expulsión temporal](#expulsión-temporal)
-  * [Expulsión permanente](#expulsión-permanente)
-- [Atribución](#atribución)
-
 - [1. Nuestro compromiso](#1-nuestro-compromiso)
 - [2. Nuestros estándares](#2-nuestros-estándares)
 - [3. Responsabilidades de aplicación](#3-responsabilidades-de-aplicación)
