@@ -60,7 +60,7 @@ Este Código de Conducta se aplica en todos los espacios de la comunidad y tambi
 
 ## 5. Aplicación
 
-Los casos de abuso, acoso o cualquier otro comportamiento inaceptable `pueden` denunciarse a los administradores de la comunidad encargados de la aplicación de los estándares en [alejimdro@outlook.com](mailto:alejimdro@outlook.com). Todas las quejas serán revisadas e investigadas con prontitud y equidad.
+Los casos de abuso, acoso o cualquier otro comportamiento inaceptable pueden denunciarse a los administradores de la comunidad encargados de la aplicación de los estándares en [alejimdro@outlook.com](mailto:alejimdro@outlook.com). Todas las quejas serán revisadas e investigadas con prontitud y equidad.
 
 Todos los administradores comunitarios están obligados a respetar la privacidad y seguridad del denunciante de cualquier incidente.
 
