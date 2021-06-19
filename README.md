@@ -1,115 +1,140 @@
-# Código de Conducta del Pacto del Colaborador
-
-[![Pacto del Colaborador](https://img.shields.io/badge/Pacto%20del%20Colaborador-2.0-4baaaa.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
-[![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GitHub repo size](https://img.shields.io/github/repo-size/alejimdro/tests.svg)](https://github.com/alejimdro/tests)
+# Visual Studio Code - Open Source ("Code - OSS")
+# Calculadora de coste de impresión
+[![Feature Requests](https://img.shields.io/github/issues-raw/alejimdro/tests/enhancement?color=orange&label=Solicitudes%20de%20funciones%20abiertas)](https://github.com/alejimdro/tests/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement+sort%3Areactions-%2B1-desc+)
+[![GitHub issues by-label](https://img.shields.io/github/issues-raw/alejimdro/tests/bug?color=orange&label=Informes%20de%20errores%20abiertos)](https://github.com/alejimdro/tests/issues?q=is%3Aissue+is%3Aopen+label%3Abug+)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/alejimdro/tests?color=orange&label=Solicitudes%20de%20extracci%C3%B3n%20abiertas)](https://github.com/alejimdro/tests/pulls?q=is%3Apr+is%3Aopen+)
+[![Pacto del Colaborador](https://img.shields.io/badge/Pacto%20del%20Colaborador-2.0-4baaaa.svg)](code_of_conduct.md)
+[![GitHub](https://img.shields.io/github/license/alejimdro/tests?label=Licencia)](https://github.com/alejimdro/tests)
+[![Tamaño del repositorio](https://img.shields.io/github/repo-size/alejimdro/tests?label=Tama%C3%B1o%20del%20repositorio)](https://github.com/alejimdro/tests)
 
 ## Índice de contenido
 
-- [1. Nuestro compromiso](#1-nuestro-compromiso)
-- [2. Nuestros estándares](#2-nuestros-estándares)
-- [3. Responsabilidades de aplicación](#3-responsabilidades-de-aplicación)
-- [4. Alcance](#4-alcance)
-- [5. Aplicación](#5-aplicación)
-- [6. Directrices de aplicación](#6-directrices-de-aplicación)
-  * [6.1. Corrección](#61-corrección)
-  * [6.2. Aviso](#62-aviso)
-  * [6.3. Expulsión temporal](#63-expulsión-temporal)
-  * [6.4. Expulsión permanente](#64-expulsión-permanente)
-- [7. Atribución](#7-atribución)
+- [1. El repositorio](#1-el-repositorio)
+- [2. Contribución](#2-contribución)
+- [3. Descripción del proyecto](#3-descripción-del-proyecto)
+- [4. Requisitos previos](#4-requisitos-previos)
+- [5. Métodos de ejecución](#5-métodos-de-ejecución)
+  * [5.1. Intérprete de comandos](#51-intérprete-de-comandos)
+  * [5.2. Modo interactivo](#52-modo-interactivo)
+  * [5.3. Entorno de desarrollo y aprendizaje integrado](#53-entorno-de-desarrollo-y-aprendizaje-integrado)
+- [6. Instrucciones de uso](#6-instrucciones-de-uso)
+- [7. Demostración](#7-demostración)
+- [8. Agradecimientos](#8-agradecimientos)
+- [9. Código de conducta](#9-código-de-conducta)
+- [10. Licencia](#10-licencia)
 
-## 1. Nuestro compromiso
+## 1. El repositorio
 
-Nosotros, como miembros, colaboradores y administradores, nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todos, independientemente de la edad, tamaño corporal, discapacidad visible o invisible, etnia, características sexuales, identidad y expresión de género, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia personal, raza, casta, color, religión o identidad y orientación sexual.
-
-Nos comprometemos a actuar e interactuar de maneras que contribuyan a crear una comunidad abierta, acogedora, diversa, inclusiva y saludable.
-
-**[↑ Volver al principio](#índice-de-contenido)**
-
-## 2. Nuestros estándares
-
-Ejemplos de comportamiento que contribuyen a crear un entorno positivo para nuestra comunidad:
-
-* Demostrar empatía y amabilidad hacia otras personas
-* Respetar las opiniones, puntos de vista y experiencias diferentes
-* Ofrecer y aceptar de buen grado comentarios constructivos
-* Aceptar la responsabilidad y disculparse con los afectados por nuestros errores y aprender de la experiencia
-* Centrarse en lo que es mejor no solo para nosotros como individuos, sino para la comunidad en general
-
-Ejemplos de comportamiento inaceptable:
-
-* Uso de lenguaje o imágenes sexualizadas y atención o insinuaciones sexuales de cualquier tipo
-* Troleo, comentarios insultantes o despectivos y ataques personales o políticos
-* Acoso público o privado
-* Publicación de información privada de otros, como direcciones físicas o de correo electrónico, sin su consentimiento explícito
-* Otras conductas que puedan considerarse razonablemente inapropiadas en un entorno profesional
+En este repositorio[,] se lleva a cabo el desarrollo de una calculadora de coste de impresión para la [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es) en colaboración con la comunidad de programadores de GitHub. Es concebido no solo como un espacio donde se trabaja en el código y se corrigen errores, sino también como hoja de ruta del proyecto, donde sugerir cambios y proponer nuevas ideas.
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
-## 3. Responsabilidades de aplicación
+## 2. Contribución
 
-Los administradores de la comunidad son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán medidas correctivas apropiadas y justas en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
+Además de contribuir a escribir código y solucionar problemas, puede participar en el proyecto de otras maneras, como, por ejemplo:
 
-Los administradores de la comunidad tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, confirmaciones de cambios, código, ediciones de la wiki, informes de problemas y otras contribuciones que no estén alineadas con este Código de Conducta y comunicarán las razones de las decisiones de moderación cuando sea apropiado.
-
-**[↑ Volver al principio](#índice-de-contenido)**
-
-## 4. Alcance
-
-Este Código de Conducta se aplica en todos los espacios de la comunidad y también cuando un individuo representa oficialmente a esta en espacios públicos. Ejemplos de representación de nuestra comunidad incluyen el uso de una dirección de correo electrónico oficial, la publicación a través de una cuenta oficial en las redes sociales o la actuación como representante designado en un evento `en o fuera de línea`.
+* [Reportar errores](https://github.com/microsoft/vscode/issues) y [agregar propuestas de funciones](https://github.com/microsoft/vscode/issues) y colaborar en su verificación a medida que se registran
+* Revisar los [cambios en el código fuente](https://github.com/microsoft/vscode/pulls)
+* Revisar la [documentación](https://github.com/microsoft/vscode-docs) y [enviar solicitudes de extracción](https://github.com/microsoft/vscode/pulls) para corregir errores tipográficos, proponer contenido nuevo o cualquier otro tema
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
-## 5. Aplicación
+## 3. Descripción del proyecto
 
-Los casos de abuso, acoso o cualquier otro comportamiento inaceptable pueden denunciarse a los administradores de la comunidad encargados de la aplicación de los estándares en [alejimdro@outlook.com](mailto:alejimdro@outlook.com). Todas las quejas serán revisadas e investigadas con prontitud y equidad.
+Una simple y efectiva calculadora de coste de impresión desarrollada para la comunidad universitaria de la Universidad de Las Palmas de Gran Canaria por Alejandro Jiménez ([alejimdro@outlook.com](mailto:alejimdro@outlook.com)).
 
-Todos los administradores comunitarios están obligados a respetar la privacidad y seguridad del denunciante de cualquier incidente.
-
-**[↑ Volver al principio](#índice-de-contenido)**
-
-## 6. Directrices de aplicación
-
-Los administradores de la comunidad seguirán estas Directrices de Impacto Comunitario para determinar las consecuencias de cualquier acción que consideren violatoria de este Código de Conducta:
-
-### 6.1. Corrección
-
-**Impacto comunitario**: Uso de lenguaje inapropiado u otro comportamiento considerado poco profesional o inoportuno en la comunidad.
-
-**Consecuencia**: Aviso privado y por escrito de los administradores de la comunidad, en el que se aclare la naturaleza de la infracción y se explique por qué el comportamiento fue inapropiado. Puede solicitarse una disculpa pública.
-
-### 6.2. Aviso
-
-**Impacto comunitario**: Violación a través de un único incidente o una serie de acciones.
-
-**Consecuencia**: Aviso con consecuencias por comportamiento continuado. Durante un periodo de tiempo determinado, no se permite la interacción con las personas involucradas, incluida la interacción no solicitada con aquellos que hacen cumplir el Código de Conducta. Esto incluye evitar las interacciones en cualesquiera espacios de la comunidad, así como en canales externos como las redes sociales. La violación de estos términos puede llevar a la expulsión temporal o permanente.
-
-### 6.3. Expulsión temporal
-
-**Impacto comunitario**: Violación grave de los estándares de la comunidad, incluyendo comportamiento inapropiado continuado.
-
-**Consecuencia**: Expulsión temporal de cualquier tipo de interacción o comunicación pública con la comunidad durante un periodo de tiempo determinado. Durante este periodo, no se permite la interacción pública o privada con las personas involucradas, incluida la interacción no solicitada con aquellos que hacen cumplir el Código de Conducta. La violación de estos términos puede llevar a la expulsión permanente.
-
-### 6.4. Expulsión permanente
-
-**Impacto comunitario**: Demostrar un patrón de violación de los estándares de la comunidad, incluyendo comportamiento inapropiado continuado, acoso a un individuo o agresión o menosprecio a clases de individuos.
-
-**Consecuencia**: Expulsión permanente de cualquier tipo de interacción pública en la comunidad.
+Este sencillo pero eficiente script le ayudará a conocer con antelación y exactitud cuál es el coste de impresión de un determinado número de páginas, procurando, en todo momento, el aprovechamiento optimizado del importe a pagar.
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
-## 7. Atribución
+## 4. Requisitos previos
 
-Este Código de Conducta es una adaptación del [Pacto del Colaborador][página de inicio], versión 2.0, disponible en [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
+Compruebe si su equipo ya dispone de una versión actualizada de Python; para ello, abra el intérprete de comandos e introduzca `python --version` o `python -V`, lo cual generará una salida con la versión de Python instalada.
 
-Las Directrices de Impacto Comunitario están inspiradas en la [escalera de aplicación del código de conducta de Mozilla][CdC de Mozilla].
+Por lo general, cualquier versión de Python 3.x será suficiente, pues Python hace todo lo posible por mantener la compatibilidad con versiones anteriores dentro de sus principales versiones.
 
-Para obtener respuestas a las preguntas más comunes sobre este Código de Conducta, consulte las preguntas frecuentes en [https://www.contributor-covenant.org/faq][FAQ]. Las traducciones están disponibles en [https://www.contributor-covenant.org/translations][traducciones].
+Las versiones 2.x y 3.x de Python no son intencionadamente compatibles. Si `python` inicia un intérprete de Python 2.x, intente introducir `python3` y compruebe si ya existe una versión actualizada instalada.
 
-[página de inicio]: https://www.contributor-covenant.org
-[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
-[CdC de Mozilla]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[traducciones]: https://www.contributor-covenant.org/translations
+Si necesita instalar Python, consulte su [página oficial de descargas](https://www.python.org/downloads/) e instale la versión estable más reciente.
+
+**[↑ Volver al principio](#índice-de-contenido)**
+
+## 5. Métodos de ejecución
+
+Un script, utilizado a menudo para automatizar procesos o realizar tareas específicas, es un archivo de texto que contiene instrucciones escritas en un determinado lenguaje de scripts. Esto significa que la mayoría de scripts pueden ser abiertos y editados con un editor de texto básico; sin embargo, sus comandos solo pueden ser comprendidos y ejecutados por un intérprete apropiado.
+
+A continuación se describen algunas formas convenientes de ejecutar un script de Python en función de su entorno, plataforma, necesidades y habilidades.
+
+**[↑ Volver al principio](#índice-de-contenido)**
+
+### 5.1. Intérprete de comandos
+
+Abra el intérprete de comandos y desplácese hasta el directorio de trabajo que contenga el script de Python; por ejemplo, `cd ~/Desktop/ULPGC/Proyectos/Calculadora`, en Linux o macOS, o `cd \Users\nombre_de_usuario\Desktop\ULPGC\Proyectos\Calculadora`, en Windows.
+
+Una vez se encuentre en el directorio correcto, ejecute el comando `python3 nombre_del_script.py`.
+
+Una alternativa más directa sería escribir `python3` seguido de la ruta del script; por ejemplo, `python3 /Users/nombre_de_usuario/Desktop/ULPGC/Proyectos/Calculadora/nombre_del_script.py`, en Linux o macOS, o `python3 \Users\nombre_de_usuario\Desktop\ULPGC\Proyectos\Calculadora\nombre_del_script.py`, en Windows, y ejecutar dicho comando.
+
+**[↑ Volver al principio](#índice-de-contenido)**
+
+### 5.2. Modo interactivo
+
+El modo interactivo es una forma muy versátil de ejecutar scripts de Python.
+
+Para iniciar dicho modo, abra el intérprete de comandos e invoque al intérprete de Python mediante el comando `python3`.
+
+Una vez invocado el intérprete, por medio de la función integrada [`exec()`](https://docs.python.org/es/3/library/functions.html#exec), que permite la ejecución dinámica de código Python, ejecute la instrucción `exec(open('/Users/nombre_de_usuario/Desktop/ULPGC/Proyectos/Calculadora/nombre_del_script.py').read())`, en Linux o macOS, o `exec(open('\Users\nombre_de_usuario\Desktop\ULPGC\Proyectos\Calculadora\nombre_del_script.py').read())`, en Windows.
+
+**[↑ Volver al principio](#índice-de-contenido)**
+
+### 5.3. Entorno de desarrollo y aprendizaje integrado
+
+Cuando se trata de ejecutar scripts desde un [entorno de desarrollo integrado](https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado) (IDE) o un [editor de código fuente](https://es.wikipedia.org/wiki/Editor_de_código_fuente), no solo puede escribir y ejecutar código, sino también depurarlo y modificarlo, así como seleccionar, entre la amplia variedad de alternativas disponibles, el entorno que mejor se adapte a sus necesidades.
+
+Para iniciar su IDE o editor de código fuente predeterminado, en este caso [IDLE](https://docs.python.org/es/3/library/idle.html), el entorno de desarrollo y aprendizaje integrado que forma parte de la distribución estándar de Python, abra el intérprete de comandos e introduzca la instrucción `open`, en Linux o macOS, o `start idle`, en Windows, seguida de la ubicación del script a ejecutar; por ejemplo, `open /Users/nombre_de_usuario/Desktop/ULPGC/Proyectos/Calculadora/nombre_del_script.py` o `start idle \Users\nombre_de_usuario\Desktop\ULPGC\Proyectos\Calculadora\nombre_del_script.py`.
+
+Por el contrario, para abrir un script de forma manual, haga clic secundario sobre este, elija **Edit with IDLE** o, en su defecto, **Abrir con** y, a continuación, seleccione **IDLE**.
+
+Para abrir un script directamente desde IDLE, haga clic en **File**, seleccione **Open** y, una vez localizado el script, haga clic en **Open**.
+
+Finalmente, para ejecutar un script abierto con IDLE, haga clic en **Run** y, a continuación, seleccione **Run Module**, o bien presione la tecla **F5** de su teclado.
+
+**[↑ Volver al principio](#índice-de-contenido)**
+
+## 6. Instrucciones de uso
+
+Ingrese, en primer lugar, el coste de impresión por página tanto en blanco y negro como a color. A continuación, indique el número de páginas por hoja seguido de un número entero válido de páginas a imprimir y, una vez haya finalizado, inserte la palabra **hecho** o el número **0**.
+
+**[↑ Volver al principio](#índice-de-contenido)**
+
+## 7. Demostración
+
+<p align="center">
+  <img alt="VS Code in action" src="https://user-images.githubusercontent.com/1487073/58344409-70473b80-7e0a-11e9-8570-b2efc6f8fa44.png">
+</p>
+
+**[↑ Volver al principio](#índice-de-contenido)**
+
+## 8. Agradecimientos
+
+Sus contribuciones al código abierto, grandes o pequeñas, hacen posible proyectos como este. Muchas gracias por dedicar su tiempo a contribuir.
+
+**[↑ Volver al principio](#índice-de-contenido)**
+
+## 9. Código de conducta
+
+Tenga en cuenta que el presente proyecto se publica con un [Código de Conducta del Colaborador](). Al contribuir a este proyecto, usted se compromete a cumplir con sus términos.
+
+**[↑ Volver al principio](#índice-de-contenido)**
+
+https://opensource.guide/code-of-conduct/
+
+https://github.com/rstudio/bookdown
+
+## 10. Licencia
+
+Copyright (c) Alejandro Jiménez. Todos los derechos reservados.
+
+Código fuente disponible bajo la [licencia MIT](./LICENSE).
 
 **[↑ Volver al principio](#índice-de-contenido)**
