@@ -136,7 +136,7 @@ Sus contribuciones al código abierto, grandes o pequeñas, hacen posible proyec
 
 ## 9. Código de conducta
 
-Tenga en cuenta que el presente proyecto se publica con un [Código de Conducta del Colaborador](). Al contribuir a este proyecto, usted se compromete a cumplir con sus términos.
+Tenga en cuenta que el presente proyecto se publica con un [Código de Conducta del Colaborador](./CODE_OF_CONDUCT.md). Al contribuir a este proyecto, usted se compromete a cumplir con sus términos.
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
