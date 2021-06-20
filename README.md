@@ -108,7 +108,7 @@ Finalmente, para ejecutar un script abierto con IDLE, haga clic en **Run** y, a 
 
 ## 6. Instrucciones de uso
 
-Ingrese, en primer lugar, el coste de impresión por página tanto en blanco y negro como a color. A continuación, indique el número de páginas por hoja seguido de un número entero válido de páginas a imprimir y, una vez haya finalizado, inserte la palabra **hecho** o el número **0**.
+Ingrese, en primer lugar, el coste de impresión por página tanto en blanco y negro como a color. A continuación, indique el número de páginas por hoja seguido de un número entero válido de páginas a imprimir y, una vez haya finalizado, inserte la palabra **_hecho_** o el número **_0_**.
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
