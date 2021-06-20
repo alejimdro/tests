@@ -118,10 +118,6 @@ Ingrese, en primer lugar, el coste de impresión por página tanto en blanco y n
   <img alt="VS Code in action" src="https://github.com/alejimdro/tests/blob/main/media/jun-20-2021%2018-33-15.gif">
 </p>
 
-<p align="center">
-  <img alt="VS Code in action" src="https://github.com/alejimdro/tests/blob/main/media/jun-20-2021%2018-38-54.gif">
-</p>
-
 **[↑ Volver al principio](#índice-de-contenido)**
 
 ## 8. Agradecimientos
