@@ -135,6 +135,6 @@ https://github.com/rstudio/bookdown
 
 Copyright (c) Alejandro Jiménez. Todos los derechos reservados.
 
-Código fuente disponible bajo la [licencia MIT](./LICENSE.txt).
+Código fuente disponible bajo la [licencia MIT](./LICENSE).
 
 **[↑ Volver al principio](#índice-de-contenido)**
