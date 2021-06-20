@@ -30,7 +30,7 @@ En este repositorio se lleva a cabo el desarrollo de una calculadora de coste de
 
 ## 2. Descripción del proyecto
 
-Una simple y efectiva calculadora de coste de impresión desarrollada para la comunidad universitaria de la Universidad de Las Palmas de Gran Canaria por Alejandro Jiménez [alejimdro@outlook.com](mailto:alejimdro@outlook.com).
+Una simple y efectiva calculadora de coste de impresión desarrollada para la comunidad universitaria de la Universidad de Las Palmas de Gran Canaria por Alejandro Jiménez ([alejimdro@outlook.com](mailto:alejimdro@outlook.com)).
 
 Este sencillo pero eficiente script le ayudará a conocer con antelación y exactitud cuál es el coste de impresión de un determinado número de páginas, procurando, en todo momento, el aprovechamiento optimizado del importe a pagar.
 
