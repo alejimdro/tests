@@ -22,6 +22,20 @@
 * [9. Código de conducta](#9-código-de-conducta)
 * [10. Licencia](#10-licencia)
 
+* [1. El repositorio](#1-el-repositorio)
+* [2. Descripción del proyecto](#2-descripción-del-proyecto)
+* [3. Contribución](#3-contribución)
+  - [3.1. Código de conducta](#31-código-de-conducta)
+* [4. Requisitos previos](#4-requisitos-previos)
+* [5. Métodos de ejecución](#5-métodos-de-ejecución)
+  - [5.1. Intérprete de comandos](#51-intérprete-de-comandos)
+  - [5.2. Modo interactivo](#52-modo-interactivo)
+  - [5.3. Entorno de desarrollo y aprendizaje integrado](#53-entorno-de-desarrollo-y-aprendizaje-integrado)
+* [6. Instrucciones de uso](#6-instrucciones-de-uso)
+* [7. Demostración](#7-demostración)
+* [8. Agradecimientos](#8-agradecimientos)
+* [9. Licencia](#9-licencia)
+
 ## 1. El repositorio
 
 En este repositorio se lleva a cabo el desarrollo de una calculadora de coste de impresión para la [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es) en colaboración con la comunidad de programadores de GitHub. Es concebido no solo como un espacio donde se trabaja en el código y se corrigen errores, sino también como hoja de ruta del proyecto, donde sugerir cambios y proponer nuevas ideas.
