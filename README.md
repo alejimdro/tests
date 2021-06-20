@@ -115,7 +115,7 @@ Ingrese, en primer lugar, el coste de impresión por página tanto en blanco y n
 ## 7. Demostración
 
 <p align="center">
-  <img alt="VS Code in action" src="https://raw.githubusercontent.com/arciisine/vscode-chronicler/master/images/screencast-small.gif">
+  <img alt="VS Code in action" src="https://github.com/alejimdro/tests/blob/main/jun-20-2021%2020-06-01.gif">
 </p>
 
 **[↑ Volver al principio](#índice-de-contenido)**
