@@ -1,11 +1,11 @@
 # Visual Studio Code - Open Source ("Code - OSS")
 # Calculadora de coste de impresión
-[![Feature Requests](https://img.shields.io/github/issues-raw/alejimdro/tests/enhancement?color=orange&label=Solicitudes%20de%20funciones%20abiertas)](https://github.com/alejimdro/tests/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement+sort%3Areactions-%2B1-desc+)
-[![GitHub issues by-label](https://img.shields.io/github/issues-raw/alejimdro/tests/bug?color=orange&label=Informes%20de%20errores%20abiertos)](https://github.com/alejimdro/tests/issues?q=is%3Aissue+is%3Aopen+label%3Abug+)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/alejimdro/tests?color=orange&label=Solicitudes%20de%20extracci%C3%B3n%20abiertas)](https://github.com/alejimdro/tests/pulls?q=is%3Apr+is%3Aopen+)
-[![Pacto del Colaborador](https://img.shields.io/badge/Pacto%20del%20Colaborador-2.0-4baaaa.svg)](./CODE_OF_CONDUCT.md)
-[![GitHub](https://img.shields.io/github/license/alejimdro/tests?label=Licencia)](./LICENSE)
-[![Tamaño del repositorio](https://img.shields.io/github/repo-size/alejimdro/tests?label=Tama%C3%B1o%20del%20repositorio)](https://github.com/alejimdro/tests)
+[![Solicitudes de funciones](https://img.shields.io/github/issues-raw/alejimdro/tests/enhancement?color=orange&label=Solicitudes%20de%20funciones%20abiertas)](https://github.com/alejimdro/tests/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement+sort%3Areactions-%2B1-desc+)
+[![Informes de errores](https://img.shields.io/github/issues-raw/alejimdro/tests/bug?color=orange&label=Informes%20de%20errores%20abiertos)](https://github.com/alejimdro/tests/issues?q=is%3Aissue+is%3Aopen+label%3Abug+)
+[![Solicitudes de extracción](https://img.shields.io/github/issues-pr-raw/alejimdro/tests?color=orange&label=Solicitudes%20de%20extracci%C3%B3n%20abiertas)](https://github.com/alejimdro/tests/pulls?q=is%3Apr+is%3Aopen+)
+[![Pacto del Colaborador](https://img.shields.io/badge/Pacto%20del%20Colaborador-2.0-orange.svg)](./CODE_OF_CONDUCT.md)
+[![Licencia](https://img.shields.io/github/license/alejimdro/tests?color=orange&label=Licencia)](./LICENSE)
+[![Tamaño del repositorio](https://img.shields.io/github/repo-size/alejimdro/tests?color=orange&label=Tama%C3%B1o%20del%20repositorio)](https://github.com/alejimdro/tests)
 
 ## Índice de contenido
 
@@ -25,7 +25,7 @@
 
 ## 1. El repositorio
 
-En este repositorio[,] se lleva a cabo el desarrollo de una calculadora de coste de impresión para la [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es) en colaboración con la comunidad de programadores de GitHub. Es concebido no solo como un espacio donde se trabaja en el código y se corrigen errores, sino también como hoja de ruta del proyecto, donde sugerir cambios y proponer nuevas ideas.
+En este repositorio se lleva a cabo el desarrollo de una calculadora de coste de impresión para la [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es) en colaboración con la comunidad de programadores de GitHub. Es concebido no solo como un espacio donde se trabaja en el código y se corrigen errores, sino también como hoja de ruta del proyecto, donde sugerir cambios y proponer nuevas ideas.
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
