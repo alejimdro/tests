@@ -8,19 +8,19 @@
 
 ## Índice de contenido
 
-- [1. El repositorio](#1-el-repositorio)
-- [2. Contribución](#2-contribución)
-- [3. Descripción del proyecto](#3-descripción-del-proyecto)
-- [4. Requisitos previos](#4-requisitos-previos)
-- [5. Métodos de ejecución](#5-métodos-de-ejecución)
-  * [5.1. Intérprete de comandos](#51-intérprete-de-comandos)
-  * [5.2. Modo interactivo](#52-modo-interactivo)
-  * [5.3. Entorno de desarrollo y aprendizaje integrado](#53-entorno-de-desarrollo-y-aprendizaje-integrado)
-- [6. Instrucciones de uso](#6-instrucciones-de-uso)
-- [7. Demostración](#7-demostración)
-- [8. Agradecimientos](#8-agradecimientos)
-- [9. Código de conducta](#9-código-de-conducta)
-- [10. Licencia](#10-licencia)
+* [1. El repositorio](#1-el-repositorio)
+* [2. Descripción del proyecto](#2-descripción-del-proyecto)
+* [3. Contribución](#3-contribución)
+* [4. Requisitos previos](#4-requisitos-previos)
+* [5. Métodos de ejecución](#5-métodos-de-ejecución)
+  - [5.1. Intérprete de comandos](#51-intérprete-de-comandos)
+  - [5.2. Modo interactivo](#52-modo-interactivo)
+  - [5.3. Entorno de desarrollo y aprendizaje integrado](#53-entorno-de-desarrollo-y-aprendizaje-integrado)
+* [6. Instrucciones de uso](#6-instrucciones-de-uso)
+* [7. Demostración](#7-demostración)
+* [8. Agradecimientos](#8-agradecimientos)
+* [9. Código de conducta](#9-código-de-conducta)
+* [10. Licencia](#10-licencia)
 
 ## 1. El repositorio
 
@@ -28,21 +28,21 @@ En este repositorio se lleva a cabo el desarrollo de una calculadora de coste de
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
-## 2. Contribución
+## 2. Descripción del proyecto
+
+Una simple y efectiva calculadora de coste de impresión desarrollada para la comunidad universitaria de la Universidad de Las Palmas de Gran Canaria por Alejandro Jiménez [alejimdro@outlook.com](mailto:alejimdro@outlook.com).
+
+Este sencillo pero eficiente script le ayudará a conocer con antelación y exactitud cuál es el coste de impresión de un determinado número de páginas, procurando, en todo momento, el aprovechamiento optimizado del importe a pagar.
+
+**[↑ Volver al principio](#índice-de-contenido)**
+
+## 3. Contribución
 
 Además de contribuir a escribir código y solucionar problemas, puede participar en el proyecto de otras maneras, como, por ejemplo:
 
 * [Reportar errores](https://github.com/microsoft/vscode/issues) y [agregar propuestas de funciones](https://github.com/microsoft/vscode/issues) y colaborar en su verificación a medida que se registran
 * Revisar los [cambios en el código fuente](https://github.com/microsoft/vscode/pulls)
 * Revisar la [documentación](https://github.com/microsoft/vscode-docs) y [enviar solicitudes de extracción](https://github.com/microsoft/vscode/pulls) para corregir errores tipográficos, proponer contenido nuevo o cualquier otro tema
-
-**[↑ Volver al principio](#índice-de-contenido)**
-
-## 3. Descripción del proyecto
-
-Una simple y efectiva calculadora de coste de impresión desarrollada para la comunidad universitaria de la Universidad de Las Palmas de Gran Canaria por Alejandro Jiménez ([alejimdro@outlook.com](mailto:alejimdro@outlook.com)).
-
-Este sencillo pero eficiente script le ayudará a conocer con antelación y exactitud cuál es el coste de impresión de un determinado número de páginas, procurando, en todo momento, el aprovechamiento optimizado del importe a pagar.
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
