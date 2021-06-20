@@ -8,33 +8,19 @@
 
 ## Índice de contenido
 
-* [1. El repositorio](#1-el-repositorio)
-* [2. Descripción del proyecto](#2-descripción-del-proyecto)
-* [3. Contribución](#3-contribución)
-* [4. Requisitos previos](#4-requisitos-previos)
-* [5. Métodos de ejecución](#5-métodos-de-ejecución)
-  - [5.1. Intérprete de comandos](#51-intérprete-de-comandos)
-  - [5.2. Modo interactivo](#52-modo-interactivo)
-  - [5.3. Entorno de desarrollo y aprendizaje integrado](#53-entorno-de-desarrollo-y-aprendizaje-integrado)
-* [6. Instrucciones de uso](#6-instrucciones-de-uso)
-* [7. Demostración](#7-demostración)
-* [8. Agradecimientos](#8-agradecimientos)
-* [9. Código de conducta](#9-código-de-conducta)
-* [10. Licencia](#10-licencia)
-
-* [1. El repositorio](#1-el-repositorio)
-* [2. Descripción del proyecto](#2-descripción-del-proyecto)
-* [3. Contribución](#3-contribución)
-  - [3.1. Código de conducta](#31-código-de-conducta)
-* [4. Requisitos previos](#4-requisitos-previos)
-* [5. Métodos de ejecución](#5-métodos-de-ejecución)
-  - [5.1. Intérprete de comandos](#51-intérprete-de-comandos)
-  - [5.2. Modo interactivo](#52-modo-interactivo)
-  - [5.3. Entorno de desarrollo y aprendizaje integrado](#53-entorno-de-desarrollo-y-aprendizaje-integrado)
-* [6. Instrucciones de uso](#6-instrucciones-de-uso)
-* [7. Demostración](#7-demostración)
-* [8. Agradecimientos](#8-agradecimientos)
-* [9. Licencia](#9-licencia)
+- [1. El repositorio](#1-el-repositorio)
+- [2. Descripción del proyecto](#2-descripción-del-proyecto)
+- [3. Contribución](#3-contribución)
+  * [3.1. Código de conducta](#31-código-de-conducta)
+- [4. Requisitos previos](#4-requisitos-previos)
+- [5. Métodos de ejecución](#5-métodos-de-ejecución)
+  * [5.1. Intérprete de comandos](#51-intérprete-de-comandos)
+  * [5.2. Modo interactivo](#52-modo-interactivo)
+  * [5.3. Entorno de desarrollo y aprendizaje integrado](#53-entorno-de-desarrollo-y-aprendizaje-integrado)
+- [6. Instrucciones de uso](#6-instrucciones-de-uso)
+- [7. Demostración](#7-demostración)
+- [8. Agradecimientos](#8-agradecimientos)
+- [9. Licencia](#9-licencia)
 
 ## 1. El repositorio
 
@@ -59,6 +45,16 @@ Además de contribuir a escribir código y solucionar problemas, puede participa
 * Revisar la [documentación](https://github.com/microsoft/vscode-docs) y [enviar solicitudes de extracción](https://github.com/microsoft/vscode/pulls) para corregir errores tipográficos, proponer contenido nuevo o cualquier otro tema
 
 **[↑ Volver al principio](#índice-de-contenido)**
+
+### 3.1. Código de conducta
+
+Tenga en cuenta que el presente proyecto se publica con un [Código de Conducta del Colaborador](./CODE_OF_CONDUCT.md). Al contribuir a este proyecto, usted se compromete a cumplir con sus términos.
+
+**[↑ Volver al principio](#índice-de-contenido)**
+
+https://opensource.guide/code-of-conduct/
+
+https://github.com/rstudio/bookdown
 
 ## 4. Requisitos previos
 
@@ -134,17 +130,7 @@ Sus contribuciones al código abierto, grandes o pequeñas, hacen posible proyec
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
-## 9. Código de conducta
-
-Tenga en cuenta que el presente proyecto se publica con un [Código de Conducta del Colaborador](./CODE_OF_CONDUCT.md). Al contribuir a este proyecto, usted se compromete a cumplir con sus términos.
-
-**[↑ Volver al principio](#índice-de-contenido)**
-
-https://opensource.guide/code-of-conduct/
-
-https://github.com/rstudio/bookdown
-
-## 10. Licencia
+## 9. Licencia
 
 Copyright (c) Alejandro Jiménez. Todos los derechos reservados.
 
