@@ -88,7 +88,7 @@ El modo interactivo es una forma muy versátil de ejecutar scripts de Python.
 
 Para iniciar dicho modo, abra el intérprete de comandos e invoque al intérprete de Python mediante el comando `python3`.
 
-Una vez invocado el intérprete, por medio de la función integrada [`exec()`](https://docs.python.org/es/3/library/functions.html#exec), que permite la ejecución dinámica de código Python, ejecute la instrucción `exec(open('/Users/nombre_de_usuario/Desktop/Proyectos/Calculadora/nombre_del_script.py').read())`, en Linux o macOS, o `exec(open('\Users\nombre_de_usuario\Desktop\Proyectos\Calculadora\nombre_del_script.py').read())`, en Windows.
+Una vez invocado el intérprete, por medio de la función integrada [`exec()`](https://docs.python.org/es/3/library/functions.html#exec), que permite la ejecución dinámica de código Python, ejecute la instrucción `exec(open('/home/nombre_de_usuario/Desktop/Proyectos/Calculadora/nombre_del_script.py').read())`, en Linux, `exec(open('/Users/nombre_de_usuario/Desktop/Proyectos/Calculadora/nombre_del_script.py').read())`, en macOS, o `exec(open('\Users\nombre_de_usuario\Desktop\Proyectos\Calculadora\nombre_del_script.py').read())`, en Windows.
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
