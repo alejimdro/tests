@@ -71,6 +71,8 @@ Todos los administradores comunitarios están obligados a respetar la privacidad
 
 Los administradores de la comunidad seguirán estas Directrices de Impacto Comunitario para determinar las consecuencias de cualquier acción que consideren violatoria de este Código de Conducta:
 
+**[↑ Volver al principio](#índice-de-contenido)**
+
 ### 6.1. Corrección
 
 **Impacto comunitario**: Uso de lenguaje inapropiado u otro comportamiento considerado poco profesional o inoportuno en la comunidad.
