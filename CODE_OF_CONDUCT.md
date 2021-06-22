@@ -5,17 +5,17 @@
 
 ## Índice de contenido
 
-- [1. Nuestro compromiso](#1-nuestro-compromiso)
-- [2. Nuestros estándares](#2-nuestros-estándares)
-- [3. Responsabilidades de aplicación](#3-responsabilidades-de-aplicación)
-- [4. Alcance](#4-alcance)
-- [5. Aplicación](#5-aplicación)
-- [6. Directrices de aplicación](#6-directrices-de-aplicación)
-  * [6.1. Corrección](#61-corrección)
-  * [6.2. Aviso](#62-aviso)
-  * [6.3. Expulsión temporal](#63-expulsión-temporal)
-  * [6.4. Expulsión permanente](#64-expulsión-permanente)
-- [7. Atribución](#7-atribución)
+* [1. Nuestro compromiso](#1-nuestro-compromiso)
+* [2. Nuestros estándares](#2-nuestros-estándares)
+* [3. Responsabilidades de aplicación](#3-responsabilidades-de-aplicación)
+* [4. Alcance](#4-alcance)
+* [5. Aplicación](#5-aplicación)
+* [6. Directrices de aplicación](#6-directrices-de-aplicación)
+  - [6.1. Corrección](#61-corrección)
+  - [6.2. Aviso](#62-aviso)
+  - [6.3. Expulsión temporal](#63-expulsión-temporal)
+  - [6.4. Expulsión permanente](#64-expulsión-permanente)
+* [7. Atribución](#7-atribución)
 
 ## 1. Nuestro compromiso
 
