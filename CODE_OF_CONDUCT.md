@@ -120,3 +120,4 @@ Para obtener respuestas a las preguntas más comunes sobre este Código de Condu
 [traducciones]: https://www.contributor-covenant.org/translations
 
 **[↑ Volver al principio](#índice-de-contenido)**
+d
