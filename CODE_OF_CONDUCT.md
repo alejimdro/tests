@@ -77,17 +77,23 @@ Los administradores de la comunidad seguirán estas Directrices de Impacto Comun
 
 **Consecuencia**: Aviso privado y por escrito de los administradores de la comunidad, en el que se aclare la naturaleza de la infracción y se explique por qué el comportamiento fue inapropiado. Puede solicitarse una disculpa pública.
 
+**[↑ Volver al principio](#índice-de-contenido)**
+
 ### 6.2. Aviso
 
 **Impacto comunitario**: Violación a través de un único incidente o una serie de acciones.
 
 **Consecuencia**: Aviso con consecuencias por comportamiento continuado. Durante un periodo de tiempo determinado, no se permite la interacción con las personas involucradas, incluida la interacción no solicitada con aquellos que hacen cumplir el Código de Conducta. Esto incluye evitar las interacciones en cualesquiera espacios de la comunidad, así como en canales externos como las redes sociales. La violación de estos términos puede llevar a la expulsión temporal o permanente.
 
+**[↑ Volver al principio](#índice-de-contenido)**
+
 ### 6.3. Expulsión temporal
 
 **Impacto comunitario**: Violación grave de los estándares de la comunidad, incluyendo comportamiento inapropiado continuado.
 
 **Consecuencia**: Expulsión temporal de cualquier tipo de interacción o comunicación pública con la comunidad durante un periodo de tiempo determinado. Durante este periodo, no se permite la interacción pública o privada con las personas involucradas, incluida la interacción no solicitada con aquellos que hacen cumplir el Código de Conducta. La violación de estos términos puede llevar a la expulsión permanente.
+
+**[↑ Volver al principio](#índice-de-contenido)**
 
 ### 6.4. Expulsión permanente
 
