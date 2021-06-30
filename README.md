@@ -11,12 +11,12 @@
 * [1. El repositorio](#1-el-repositorio)
 * [2. Descripción del proyecto](#2-descripción-del-proyecto)
 * [3. Contribución](#3-contribución)
-  - [3.1. Código de conducta](#31-código-de-conducta)
+  * [3.1. Código de conducta](#31-código-de-conducta)
 * [4. Requisitos previos](#4-requisitos-previos)
 * [5. Métodos de ejecución](#5-métodos-de-ejecución)
-  - [5.1. Intérprete de comandos](#51-intérprete-de-comandos)
-  - [5.2. Modo interactivo](#52-modo-interactivo)
-  - [5.3. Entorno de desarrollo y aprendizaje integrado](#53-entorno-de-desarrollo-y-aprendizaje-integrado)
+  * [5.1. Intérprete de comandos](#51-intérprete-de-comandos)
+  * [5.2. Modo interactivo](#52-modo-interactivo)
+  * [5.3. Entorno de desarrollo y aprendizaje integrado](#53-entorno-de-desarrollo-y-aprendizaje-integrado)
 * [6. Instrucciones de uso](#6-instrucciones-de-uso)
 * [7. Demostración](#7-demostración)
 * [8. Agradecimientos](#8-agradecimientos)
@@ -42,7 +42,7 @@ Además de contribuir a escribir código y solucionar problemas, puede participa
 
 * [Reportar errores](https://github.com/alejimdro/tests/issues) y [agregar propuestas de funciones](https://github.com/alejimdro/tests/issues) y colaborar en su verificación a medida que se registran
 * Revisar los [cambios en el código fuente](https://github.com/alejimdro/tests/pulls)
-* Revisar la documentación y [enviar solicitudes de extracción](https://github.com/alejimdro/tests/pulls) para corregir errores tipográficos, proponer contenido nuevo o cualquier otro tema
+* Revisar la documentación y [enviar solicitudes de extracción](https://github.com/alejimdro/tests/pulls) para corregir errores tipográficos, proponer contenido nuevo o cualquier otro `tema / asunto / problema / cuestión`
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
@@ -61,6 +61,12 @@ Por lo general, cualquier versión de Python 3.x será suficiente, pues Python h
 Las versiones 2.x y 3.x de Python no son intencionadamente compatibles. Si `python` inicia un intérprete de Python 2.x, intente introducir `python3` y compruebe si ya existe una versión actualizada instalada.
 
 Si necesita instalar Python, consulte su [página oficial de descargas](https://www.python.org/downloads/) e instale la versión estable más reciente.
+
+En macOS y Windows, la instalación de Python incluye [IDLE](https://docs.python.org/es/3/library/idle.html), un entorno de desarrollo y aprendizaje integrado, incorporado a la implementación por defecto del lenguaje desde la versión [1.5.2b1](https://hg.python.org/cpython/file/tip/Lib/idlelib/HISTORY.txt).
+
+En Linux, por el contrario, IDLE se distribuye de forma separada, pudiendo ser instalado desde los repositorios de cada distribución mediante el gestor de paquetes por un usuario con privilegios de administrador.
+
+En Linux, por el contrario, IDLE se distribuye de forma separada, pudiendo ser instalado desde los repositorios de cada distribución, mediante el gestor de paquetes, por un usuario con privilegios de administrador.
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
@@ -96,7 +102,7 @@ Una vez invocado el intérprete, por medio de la función integrada [`exec()`](h
 
 Cuando se trata de ejecutar scripts desde un [entorno de desarrollo integrado](https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado) (IDE) o un [editor de código fuente](https://es.wikipedia.org/wiki/Editor_de_código_fuente), no solo puede escribir y ejecutar código, sino también depurarlo y modificarlo, así como seleccionar, entre la amplia variedad de alternativas disponibles, el entorno que mejor se adapte a sus necesidades.
 
-Para iniciar su IDE o editor de código fuente predeterminado, en este caso [IDLE](https://docs.python.org/es/3/library/idle.html), el entorno de desarrollo y aprendizaje integrado que forma parte de la distribución estándar de Python, abra el intérprete de comandos e introduzca la instrucción `idle`, en Linux, `open -a "IDLE"`, en macOS, o `start idle`, en Windows, seguida de la ubicación del script a ejecutar; por ejemplo, `idle ~/Desktop/Proyectos/Calculadora/nombre_del_script.py`, `open -a "IDLE" ~/Desktop/Proyectos/Calculadora/nombre_del_script.py` o `start idle \Users\nombre_de_usuario\Desktop\Proyectos\Calculadora\nombre_del_script.py`.
+Para iniciar su IDE o editor de código fuente predeterminado, en este caso [,] IDLE, abra el intérprete de comandos e introduzca la instrucción `idle`, en Linux, `open -a "IDLE"`, en macOS, o `start idle`, en Windows, seguida de la ubicación del script a ejecutar; por ejemplo, `idle ~/Desktop/Proyectos/Calculadora/nombre_del_script.py`, `open -a "IDLE" ~/Desktop/Proyectos/Calculadora/nombre_del_script.py` o `start idle \Users\nombre_de_usuario\Desktop\Proyectos\Calculadora\nombre_del_script.py`.
 
 Por el contrario, para abrir un script de forma manual, haga clic secundario sobre este, elija **Edit with IDLE** o, en su defecto, **Abrir con** y, a continuación, seleccione **IDLE**.
 
@@ -115,8 +121,12 @@ Ingrese, en primer lugar, el coste de impresión por página tanto en blanco y n
 ## 7. Demostración
 
 <p align="center">
-  <img alt="VS Code in action" src="https://raw.githubusercontent.com/alejimdro/tests/main/demo.gif">
+  <img alt="VS Code in action" src="https://user-images.githubusercontent.com/1487073/58344409-70473b80-7e0a-11e9-8570-b2efc6f8fa44.png">
 </p>
+
+https://github.com/alejimdro/tests/blob/main/demo.gif?raw=true
+
+https://github.com/alejimdro/tests/raw/main/demo.gif
 
 **[↑ Volver al principio](#índice-de-contenido)**
 
@@ -133,4 +143,3 @@ Copyright (c) Alejandro Jiménez. Todos los derechos reservados.
 Código fuente disponible bajo la [licencia MIT](./LICENSE).
 
 **[↑ Volver al principio](#índice-de-contenido)**
-     
