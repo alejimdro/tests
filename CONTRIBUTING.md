@@ -85,7 +85,7 @@ Por favor, tenga en cuenta lo siguiente a la hora de notificar un problema:
 
 * [ ] Busque en el repositorio de problemas para asegurarse de que informa de un problema nuevo
 
-* [ ] Exponga el problema de forma clara y rigurosa/precisa/fehaciente
+* [ ] Exponga el problema de forma clara y precisa
 
 * [ ] Simplifique su código en torno a la `incidencia` para aislar mejor el problema
 
