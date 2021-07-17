@@ -18,9 +18,6 @@ Si su cambio es específico para un determinado comportamiento o funcionalidad, 
 Si su cambio es específico para un determinado comportamiento o funcionalidad, asegúrese entonces de que dicho cambio es razonablemente aplicable y que, según su tipo, se realiza en la plantilla adecuada.
 
 
-de acuerdo a su tipo/tipologí
-
-de acuerdo con un procedimiento específico establecido para tal efecto.
 
 Si su cambio es específico para un determinado comportamiento o funcionalidad, asegúrese entonces de que dicho cambio es razonablemente aplicable y se realiza en la plantilla reservada para tal fin.
 
