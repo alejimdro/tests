@@ -1,5 +1,5 @@
 ---
-name: Bug report (Informe de error)
+name: Informe de error
 about: Cree un informe para ayudarnos a mejorar
 title: ''
 labels: ''
@@ -14,8 +14,8 @@ Describa de forma clara y concisa el error.
 Pasos necesarios para reproducir el error:
 
 1. Abrir el intérprete de comandos
-2. Ejecutar la instrucción '...'
-3. Introducir el valor '...'
+2. Ejecutar la instrucción '...' `X`
+3. Introducir el valor '...' `Y`
 4. Aparición del error
 
 **Comportamiento esperado**
