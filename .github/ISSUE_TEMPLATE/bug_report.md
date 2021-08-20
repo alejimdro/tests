@@ -1,6 +1,6 @@
 ---
 name: Bug report (Informe de error)
-about: Cree un informe que nos permita corregir errores e implementar mejoras
+about: Cree un informe para ayudarnos a mejorar
 title: ''
 labels: ''
 assignees: ''
@@ -11,7 +11,7 @@ assignees: ''
 Describa de forma clara y concisa el error.
 
 **Pasos reproducibles**
-Pasos [necesarios] para reproducir el error:
+Pasos necesarios para reproducir el error:
 
 1. Abrir el intérprete de comandos
 2. Ejecutar la instrucción '...'
