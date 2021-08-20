@@ -1,38 +1,28 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug report (Informe de error)
+about: Cree un informe que nos permita corregir errores e implementar mejoras
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Descripción del error**
+Describa de forma clara y concisa el error.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Pasos reproducibles**
+Pasos [necesarios] para reproducir el error:
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+1. Abrir el intérprete de comandos
+2. Ejecutar la instrucción '...'
+3. Introducir el valor '...'
+4. Aparición del error
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Comportamiento esperado**
+Explique de forma breve y precisa lo que esperaba que ocurriera.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Capturas de pantalla**
+Si procede, añada capturas de pantalla que ayuden a comprender el problema.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Información adicional**
+Añada aquí cualquier otro tipo de información sobre el problema.
