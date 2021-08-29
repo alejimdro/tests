@@ -11,9 +11,7 @@ assignees: ''
 Una descripción clara y concisa de cuál es el error.
 
 **Pasos reproducibles**
-Pasos necesarios para reproducir el error:
-Pasos para reproducir el error:
-Pasos para reproducir el comportamiento:
+Pasos necesarios para reproducir el problema:
 
 1. Abrir el intérprete de comandos
 2. Ejecutar la instrucción...
