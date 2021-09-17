@@ -1,5 +1,14 @@
 ## There are many ways to contribute to the Visual Studio Code project: logging bugs, submitting pull requests, reporting issues, and creating suggestions.
 
+<details>
+<summary>Qué hacer si...</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+
+</details>
+
 # Cómo convertirse en colaborador y enviar su propio código
 
 Además de contribuir a escribir código, existen muchas otras maneras de colaborar, como, por ejemplo, registrando errores, presentando solicitudes de extracción, informando de problemas `y/o` creando sugerencias. El objetivo de este documento es ofrecer una visión general de cómo puede participar.
