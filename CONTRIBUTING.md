@@ -103,3 +103,17 @@ Es posible que los desarrolladores no puedan reproducir el problema de inmediato
 # Agradecimientos
 
 Sus contribuciones al código abierto, grandes o pequeñas, hacen posibles valiosos proyectos como este. Gracias por tomarse el tiempo de contribuir.
+
+---
+
+### Requisitos para contribuir a la corrección de errores
+
+* Rellene la siguiente plantilla. Cualquier solicitud de extracción que no incluya suficiente información para ser revisada a tiempo puede ser cerrada a discreción de los mantenedores.
+* La solicitud de extracción solo debe corregir un error existente. Para contribuir con otros cambios, debe utilizar una plantilla diferente. Puede encontrar todas las plantillas en <https://github.com/atom/.github/tree/master/.github/PULL_REQUEST_TEMPLATE>.
+* Una vez creada la solicitud de extracción, deben superarse todas las [comprobaciones de estado](https://help.github.com/articles/about-status-checks/) antes de que un mantenedor pueda revisar su contribución. Para más información, consulte el siguiente enlace: <https://help.github.com/articles/about-status-checks/>. <details><summary>¿Qué ocurre si las comprobaciones de estado fallan?</summary>Si una comprobación de estado falla y usted cree que el fallo no está relacionado con su cambio, por favor, escriba un comentario en la solicitud de extracción explicando por qué cree que el fallo no está relacionado. A continuación un mantenedor volverá a ejecutar la comprobación de estado. Si llegamos a la conclusión de que el fallo ha sido un falso positivo, abriremos una incidencia para rastrear ese problema.</details>
+
+### Requisitos para contribuir a la corrección de errores
+
+* Rellene la siguiente plantilla. Cualquier solicitud de extracción que no incluya suficiente información para ser revisada a tiempo puede ser cerrada a discreción de los mantenedores.
+* La solicitud de extracción solo debe corregir un error existente. Para contribuir con otros cambios, debe utilizar una plantilla diferente. Puede encontrar todas las plantillas en <https://github.com/atom/.github/tree/master/.github/PULL_REQUEST_TEMPLATE>.
+* Una vez creada la solicitud de extracción, deben superarse todas las [comprobaciones de estado](https://help.github.com/articles/about-status-checks/) antes de que un mantenedor pueda revisar su contribución. <details><summary>¿Qué ocurre si las comprobaciones de estado fallan?</summary>Si una comprobación de estado falla y usted cree que el fallo no está relacionado con su cambio, por favor, escriba un comentario en la solicitud de extracción explicando por qué cree que el fallo no está relacionado. A continuación un mantenedor volverá a ejecutar la comprobación de estado. Si llegamos a la conclusión de que el fallo ha sido un falso positivo, abriremos una incidencia para rastrear ese problema.</details>
